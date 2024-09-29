@@ -86,3 +86,5 @@ To stop the tool, press `Ctrl + C` in the terminal running **PHANTOM**.
 ## **Contributing**
 Contributions are welcome! If you have any ideas, find bugs, or want to improve the tool, feel free to open a pull request or submit an issue.
 
+---
+
