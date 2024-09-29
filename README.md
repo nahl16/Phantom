@@ -20,7 +20,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/phantom.git
+git clone https://github.com/nahl16/phantom.git
 ```
 
 Navigate to the project directory:
