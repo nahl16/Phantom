@@ -1,4 +1,3 @@
----
 # **PHANTOM - Port Spoofing Tool**
 
 **PHANTOM** is a simple Python-based tool that allows users to spoof ports on a machine to appear open and running a specified service. This can be useful for testing and simulating services during network scans.
@@ -74,4 +73,3 @@ To stop the tool, press `Ctrl + C` in the terminal running **PHANTOM**.
 ## **Contributing**
 Contributions are welcome! If you have any ideas, find bugs, or want to improve the tool, feel free to open a pull request or submit an issue.
 
----
